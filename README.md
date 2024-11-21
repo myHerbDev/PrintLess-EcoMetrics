@@ -1,7 +1,3 @@
-Sure! Here's the GitHub documentation for PrintLess EcoMetrix by myHerb with added Markdown formatting:
-
----
-
 # PrintLess EcoMetrix
 
 **PrintLess EcoMetrix** is an innovative application developed by [myHerb.co.il](https://myherb.co.il) to revolutionize eco-friendly practices in the sustainability industry.
