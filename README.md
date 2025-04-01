@@ -1,10 +1,10 @@
 # PrintLess EcoMetrics by myHerb
 
-[**PrintLess EcoMetrics**](https://v0-print-less-eco-metrics-bud6sodkwjo-qx7y37w9e-myherbdev.vercel.app) is an innovative application developed by [myHerb.co.il](https://myherb.co.il) to revolutionize eco-friendly practices in the sustainability industry.
+[**PrintLess EcoMetrics**](https://ecometrics.myherb.co.il/) is an innovative application developed by [myHerb](https://myherb.co.il) to revolutionize eco-friendly practices in the sustainability industry.
 
 ## Overview
 
-[**PrintLess EcoMetrics**](https://v0-print-less-eco-metrics-bud6sodkwjo-qx7y37w9e-myherbdev.vercel.app) aims to reduce paper consumption and promote sustainable habits by providing detailed metrics and actionable insights. This tool is designed to help individuals and organizations track their printing habits and make eco-friendly choices.
+[**PrintLess EcoMetrics**](https://ecometrics.myherb.co.il/) aims to reduce paper consumption and promote sustainable habits by providing detailed metrics and actionable insights. This tool is designed to help individuals and organizations track their printing habits and make eco-friendly choices.
 
 ## Features
 
@@ -16,7 +16,7 @@
 
 **About**
 
-[PrintLess EcoMetrics](https://v0-print-less-eco-metrics-bud6sodkwjo-qx7y37w9e-myherbdev.vercel.app) is a powerful tool developed by myHerb to help individuals and organizations reduce their environmental impact by minimizing paper consumption and optimizing resource usage. 
+[**PrintLess EcoMetrics**](https://ecometrics.myherb.co.il/) is a powerful tool developed by myHerb to help individuals and organizations reduce their environmental impact by minimizing paper consumption and optimizing resource usage. 
 
 **Key Features:**
 
@@ -56,14 +56,11 @@ We welcome contributions from the open-source community. Please refer to the [Co
 
 This project is licensed under the [MIT License](link to license).
 
-
 **Contact:**
 
-For any questions or feedback, please contact us at [email address](link to email address).
-
+For any questions or feedback, please contact us at [email address](mailto:myherb.contact@gmail.com).
 
 **Stay Green, Print Less!**
-
 
 ---
 
@@ -74,11 +71,6 @@ For any questions or feedback, please contact us at [email address](link to emai
 * Consider adding a section for "Known Issues" and "Future Plans" to provide transparency.
 * Ensure the README.md file is well-formatted and easy to read. 
 
-
 ## Contact
 
-If you have any questions or feedback, please email us at [support@myherb.co.il](mailto:support@myherb.co.il).
-
----
-
-Feel free to tweak this as needed! How does this look to you?
+If you have any questions or feedback, please email us at [Email](mailto:myherb.contact@gmail.com).
